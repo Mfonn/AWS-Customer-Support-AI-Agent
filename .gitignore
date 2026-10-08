@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.bedrock_agentcore.yaml
+setup_aws.sh
+.aws/
+uv.lock
+
+bedrock_agentcore/CustomerSupportAgent/dependencies.zip/
+.bedrock_agentcore/CustomerSupportAgent/dependencies.zip
+.bedrock_agentcore/CustomerSupportAgent/dependencies.zip
+.bedrock_agentcore/CustomerSupportAgent/dependencies.zip
+.bedrock_agentcore/CustomerSupportAgent/dependencies.zip
